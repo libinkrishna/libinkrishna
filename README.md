@@ -72,6 +72,34 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
+<br>
+
+<!-- Replace with your own cyberpunk/retro coding image -->
+<img src="https://your-image-url-here.gif" alt="Coding Setup" width="800"/>
+
+</div>
+
+---
+
+## 📈 CONTRIBUTION GRAPH
+
+<div align="center">
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=libinkrishna&theme=react-dark&hide_border=true&area=true)
+
+</div>
+
+---
+
+## 🎥 DEMO VIDEO
+
+<div align="center">
+
+<!-- Replace with your video embed or GIF -->
+[![Demo Video](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+
+*Click to watch the demo*
+
 </div>
 
 ---
