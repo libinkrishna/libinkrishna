@@ -75,7 +75,7 @@
 <br>
 
 <!-- Replace with your own cyberpunk/retro coding image -->
-<img src="https://your-image-url-here.gif](https://www.pinterest.com/pin/107382772362498471/" alt="Coding Setup" width="800"/>
+<img src="[https://your-image-url-here.gif](https://www.pinterest.com/pin/107382772362498471/](https://www.pinterest.com/pin/203717583139914602/)" alt="Coding Setup" width="800"/>
 
 </div>
 
