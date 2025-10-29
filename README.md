@@ -75,7 +75,7 @@
 <br>
 
 <!-- Replace with your own cyberpunk/retro coding image -->
-<img src="https://your-image-url-here.gif" alt="Coding Setup" width="800"/>
+<img src="https://your-image-url-here.gif](https://www.pinterest.com/pin/107382772362498471/" alt="Coding Setup" width="800"/>
 
 </div>
 
@@ -91,18 +91,6 @@
 
 ---
 
-## 🎥 DEMO VIDEO
-
-<div align="center">
-
-<!-- Replace with your video embed or GIF -->
-[![Demo Video](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
-
-*Click to watch the demo*
-
-</div>
-
----
 
 ## 📊 GITHUB STATISTICS
 
