@@ -1,15 +1,6 @@
 <div align="center">
 
-```diff
---                                                                                        --
---  ██╗     ██╗██████╗ ██╗███╗   ██╗    ██╗  ██╗██████╗ ██╗███████╗██╗  ██╗███╗   ██╗ █████╗  --
---  ██║     ██║██╔══██╗██║████╗  ██║    ██║ ██╔╝██╔══██╗██║██╔════╝██║  ██║████╗  ██║██╔══██╗ --
---  ██║     ██║██████╔╝██║██╔██╗ ██║    █████╔╝ ██████╔╝██║███████╗███████║██╔██╗ ██║███████║ --
---  ██║     ██║██╔══██╗██║██║╚██╗██║    ██╔═██╗ ██╔══██╗██║╚════██║██╔══██║██║╚██╗██║██╔══██║ --
---  ███████╗██║██████╔╝██║██║ ╚████║    ██║  ██╗██║  ██║██║███████║██║  ██║██║ ╚████║██║  ██║ --
---  ╚══════╝╚═╝╚═════╝ ╚═╝╚═╝  ╚═══╝    ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝ --
---                                                                                        --
-```
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=2000&pause=500&color=FF0000&center=true&vCenter=true&width=1000&lines=LIBIN+KRISHNA" alt="Libin Krishna">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&width=600&height=100&lines=%3E+ACCESSING+MAINFRAME...;%3E+LOADING+PROFILE_DATA.exe;%3E+CONNECTION+ESTABLISHED+✅" alt="Terminal Loading">
 
